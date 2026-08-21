@@ -40,3 +40,6 @@ results/*.diff
 
 # Keep results directory but not contents
 !results/.gitkeep
+
+.claude/settings.json
+**/.claude/settings.json
